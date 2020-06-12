@@ -1,3 +1,6 @@
+GetHalo
+*.ascii
+*.bin
 # Prerequisites
 *.d
 
